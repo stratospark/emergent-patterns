@@ -2,6 +2,8 @@
 
 Story by [@stratospark](https://x.com/stratospark) and Claude AI
 
+This story was generated from 100 Anki cards. Learn more about the project [here](./README.md).
+
 ![cover image](./cover.jpg)
 
 ## The Archive of Understanding
