@@ -2,7 +2,7 @@
 
 Patrick Rodriguez ([@stratospark](https://x.com/stratospark)), December 2024
 
-[Story](./the-topology-of-understanding.md) here.
+[Story](./the-topology-of-understanding.md) here. [Audiobook](https://pub-3d07c57cb54e4166a3f6f584398b09f0.r2.dev/Elevenlabs_The%2520Topology%2520of%2520Understanding.mp3) here.
 
 | ![toppo1.jpg](./topo1.jpg) | ![topo4.jpg](./topo4.jpg) | ![topo5.jpg](./topo5.jpg) | ![topo8.jpg](./topo8.jpg) |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |
